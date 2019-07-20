@@ -1,0 +1,45 @@
+[
+    {
+
+    "id" : 1,
+    "name" : "Badlands",
+    "src" : "./images/badlands.jpg",
+    "clicked" : false
+  
+  },
+  {
+    "id" : 2,
+    "name" : "Big Bend",
+    "src" : "./images/bigbend.jpg",
+    "clicked" : false
+  
+  },
+  {
+    "id" : 3,
+    "name" : "Crater Lake",
+    "src" : "./images/craterlake.jpg",
+    "clicked" : false
+  
+  },
+  {
+    "id" : 4,
+    "name" : "Glacier",
+    "src" : "./images/glacier.jpg",
+    "clicked" : false
+  
+  },
+  {
+      "id" : 5,
+      "name" : "Great Smmoky Mountains",
+      "src" : "./images/greatsmokymountains.jpg",
+      "clicked" : false
+
+  },
+  {
+    "id" : 6,
+    "name" : "Green Mountain",
+    "src" : "./images/greenmountain2.jpg",
+    "clicked" : false
+
+}
+]
