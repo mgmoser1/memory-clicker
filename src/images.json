@@ -41,5 +41,47 @@
     "src" : "./images/greenmountain2.jpg",
     "clicked" : false
 
-}
+  },
+  {
+    "id" : 7,
+    "name" : "Key Biscayne",
+    "src" : "./images/keybiscayne.jpg",
+    "clicked" : false
+
+  },
+  {
+    "id" : 8,
+    "name" : "Mesa Verde",
+    "src" : "./images/mesaverde.jpg",
+    "clicked" : false
+
+  },
+  {
+    "id" : 9,
+    "name" : "Shenandoah",
+    "src" : "./images/shenandoah.jpg",
+    "clicked" : false
+
+  },
+  {
+    "id" : 10,
+    "name" : "Yellowstone",
+    "src" : "./images/yellowstone.jpg",
+    "clicked" : false
+
+  },
+  {
+    "id" : 11,
+    "name" : "Yosemite",
+    "src" : "./images/yosemite.jpg",
+    "clicked" : false
+
+  },
+  {
+    "id" : 12,
+    "name" : "Zion",
+    "src" : "./images/zion.jpg",
+    "clicked" : false
+
+  }
 ]

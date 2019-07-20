@@ -60,10 +60,7 @@ class App extends React.Component {
       this.setState({
         highScore : this.state.highScore + 1
       })
-    }
-    
-  /*   this.handleTopScore(); */
-          
+    }         
           } else {
             
         this.handleReset();    
@@ -82,19 +79,10 @@ class App extends React.Component {
 
     this.setState({
       Images: arrayReset,
-      score : 0
+      score : 0,
+      message : "Oh no! Try again!"
     })
- //   console.log("this.clicked: " + this.state.image.clicked);  // returning "false".
   }
-
-  /* handleTopScore = () => {           // LEXICAL THIS MEANS THIS IS AUTOMATICALLY BOUND TO THIS CLASS "COUNTER"
-  // We always use the setState method to update a component's state
-  
-    if (this.state.score > this.state.highScore) {
-      this.setState({ highScore: this.state.score });
-    }
-};
- */
 
 render() {
   return (
@@ -106,6 +94,7 @@ render() {
       <div className = "scoreboard">
         <h3>Score: {this.state.score}</h3>
         <h3>High Score: {this.state.highScore}</h3>
+        <h4>{this.state.message}</h4>
       </div>
     </div>
 
