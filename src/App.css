@@ -15,8 +15,9 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.title-bar {
+  padding: 30px;
+  height: 40vh;
 }
 
 .scoreboard {
