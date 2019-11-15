@@ -1,3 +1,5 @@
+Test your memory with a game celebrating American national parks!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
